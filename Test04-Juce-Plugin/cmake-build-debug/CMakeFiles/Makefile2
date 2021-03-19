@@ -184,8 +184,8 @@ CMakeFiles\AudioPluginExample.dir\clean:
 # Target rules for target CMakeFiles/AudioPluginExample_All.dir
 
 # All Build rule for target.
-CMakeFiles\AudioPluginExample_All.dir\all: CMakeFiles\AudioPluginExample_VST3.dir\all
 CMakeFiles\AudioPluginExample_All.dir\all: CMakeFiles\AudioPluginExample_Standalone.dir\all
+CMakeFiles\AudioPluginExample_All.dir\all: CMakeFiles\AudioPluginExample_VST3.dir\all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AudioPluginExample_All.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\AudioPluginExample_All.dir\depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\AudioPluginExample_All.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\AudioPluginExample_All.dir\build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num= "Built target AudioPluginExample_All"
