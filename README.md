@@ -1,2 +1,2 @@
 # Cmake_Tutorial
- learning Cmake these are my code examples
+ learning Cmake. These are my code examples for learning using lostjared's codes exmaple.
