@@ -65,7 +65,7 @@
 					<Add option="-DJUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -86,8 +86,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
@@ -149,7 +149,7 @@
 					<Add option="-DJUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -170,8 +170,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
@@ -247,7 +247,7 @@
 					<Add option="-D_DEBUG=1"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -268,8 +268,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
@@ -330,7 +330,7 @@
 					<Add option="-D_DEBUG=1"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -351,8 +351,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
@@ -413,7 +413,7 @@
 					<Add option="-D_DEBUG=1"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -434,8 +434,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
@@ -496,7 +496,7 @@
 					<Add option="-D_DEBUG=1"/>
 					<Add option="-DJucePlugin_IsSynth=0"/>
 					<Add option="-DJucePlugin_ManufacturerCode=0x4a756365"/>
-					<Add option="-DJucePlugin_Manufacturer=&quot;yourcompany&quot;"/>
+					<Add option="-DJucePlugin_Manufacturer=&quot;[M]arvelousAudio&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerWebsite=&quot;&quot;"/>
 					<Add option="-DJucePlugin_ManufacturerEmail=&quot;&quot;"/>
 					<Add option="-DJucePlugin_PluginCode=0x44656d30"/>
@@ -517,8 +517,8 @@
 					<Add option="-DJucePlugin_AUExportPrefix=Audio_Plugin_ExampleAU"/>
 					<Add option="-DJucePlugin_AUExportPrefixQuoted=&quot;Audio_Plugin_ExampleAU&quot;"/>
 					<Add option="-DJucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode"/>
-					<Add option="-DJucePlugin_CFBundleIdentifier=com.yourcompany.AudioPluginExample"/>
-					<Add option="-DJucePlugin_AAXIdentifier=com.yourcompany.AudioPluginExample"/>
+					<Add option="-DJucePlugin_CFBundleIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
+					<Add option="-DJucePlugin_AAXIdentifier=com.[M]arvelousAudio.AudioPluginExample"/>
 					<Add option="-DJucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode"/>
 					<Add option="-DJucePlugin_AAXProductId=JucePlugin_PluginCode"/>
 					<Add option="-DJucePlugin_AAXCategory=0x00000000"/>
