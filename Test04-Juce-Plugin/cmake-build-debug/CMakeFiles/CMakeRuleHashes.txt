@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+230d2840af29acd071ce5ef9bae69409 AudioPluginExample_artefacts/JuceLibraryCode/resources.rc
