@@ -39,7 +39,7 @@ CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //CXX compiler
-CMAKE_CXX_COMPILER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe
+CMAKE_CXX_COMPILER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/cl.exe
 
 //Flags used by the CXX compiler during all build types.
 CMAKE_CXX_FLAGS:STRING=/DWIN32 /D_WINDOWS /GR /EHsc
@@ -60,7 +60,7 @@ CMAKE_CXX_FLAGS_RELWITHDEBINFO:STRING=/Zi /O2 /Ob1 /DNDEBUG
 CMAKE_CXX_STANDARD_LIBRARIES:STRING=kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
 
 //C compiler
-CMAKE_C_COMPILER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe
+CMAKE_C_COMPILER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/cl.exe
 
 //Flags used by the C compiler during all build types.
 CMAKE_C_FLAGS:STRING=/DWIN32 /D_WINDOWS
@@ -81,7 +81,7 @@ CMAKE_C_FLAGS_RELWITHDEBINFO:STRING=/Zi /O2 /Ob1 /DNDEBUG
 CMAKE_C_STANDARD_LIBRARIES:STRING=kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
 
 //Flags used by the linker during all build types.
-CMAKE_EXE_LINKER_FLAGS:STRING=/machine:X86
+CMAKE_EXE_LINKER_FLAGS:STRING=/machine:x64
 
 //Flags used by the linker during DEBUG builds.
 CMAKE_EXE_LINKER_FLAGS_DEBUG:STRING=/debug /INCREMENTAL
@@ -96,17 +96,17 @@ CMAKE_EXE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 CMAKE_EXE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Test04_Juce_Plugin
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/AUDIO_PLUGIN_EXAMPLE
 
 //Path to a program.
-CMAKE_LINKER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/link.exe
+CMAKE_LINKER:FILEPATH=C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx64/x64/link.exe
 
 //Program used to build from makefiles.
 CMAKE_MAKE_PROGRAM:STRING=nmake
 
 //Flags used by the linker during the creation of modules during
 // all build types.
-CMAKE_MODULE_LINKER_FLAGS:STRING=/machine:X86
+CMAKE_MODULE_LINKER_FLAGS:STRING=/machine:x64
 
 //Flags used by the linker during the creation of modules during
 // DEBUG builds.
@@ -125,7 +125,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELEASE:STRING=/INCREMENTAL:NO
 CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO:STRING=/debug /INCREMENTAL
 
 //Path to a program.
-CMAKE_MT:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.17134.0/x86/mt.exe
+CMAKE_MT:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.17134.0/x64/mt.exe
 
 //Value Computed by CMake
 CMAKE_PROJECT_DESCRIPTION:STATIC=
@@ -152,7 +152,7 @@ CMAKE_PROJECT_VERSION_PATCH:STATIC=1
 CMAKE_PROJECT_VERSION_TWEAK:STATIC=
 
 //RC compiler
-CMAKE_RC_COMPILER:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.17134.0/x86/rc.exe
+CMAKE_RC_COMPILER:FILEPATH=C:/Program Files (x86)/Windows Kits/10/bin/10.0.17134.0/x64/rc.exe
 
 //Flags for Windows Resource Compiler during all build types.
 CMAKE_RC_FLAGS:STRING=-DWIN32
@@ -171,7 +171,7 @@ CMAKE_RC_FLAGS_RELWITHDEBINFO:STRING=
 
 //Flags used by the linker during the creation of shared libraries
 // during all build types.
-CMAKE_SHARED_LINKER_FLAGS:STRING=/machine:X86
+CMAKE_SHARED_LINKER_FLAGS:STRING=/machine:x64
 
 //Flags used by the linker during the creation of shared libraries
 // during DEBUG builds.
@@ -198,7 +198,7 @@ CMAKE_SKIP_RPATH:BOOL=NO
 
 //Flags used by the linker during the creation of static libraries
 // during all build types.
-CMAKE_STATIC_LINKER_FLAGS:STRING=/machine:X86
+CMAKE_STATIC_LINKER_FLAGS:STRING=/machine:x64
 
 //Flags used by the linker during the creation of static libraries
 // during DEBUG builds.
@@ -235,9 +235,6 @@ JUCE_BUILD_EXTRAS:BOOL=OFF
 // building
 JUCE_COPY_PLUGIN_AFTER_BUILD:BOOL=OFF
 
-//The directory containing a CMake configuration file for JUCE.
-JUCE_DIR:PATH=JUCE_DIR-NOTFOUND
-
 //Show all module sources in IDE projects
 JUCE_ENABLE_MODULE_SOURCE_GROUPS:BOOL=OFF
 
@@ -251,12 +248,6 @@ JUCE_SOURCE_DIR:STATIC=C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test
 //The location, relative to the install prefix, where juceaide
 // will be installed
 JUCE_TOOL_INSTALL_DIR:STRING=bin/JUCE-6.0.7
-
-//Value Computed by CMake
-Test04_Juce_Plugin_BINARY_DIR:STATIC=C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug
-
-//Value Computed by CMake
-Test04_Juce_Plugin_SOURCE_DIR:STATIC=C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin
 
 
 ########################

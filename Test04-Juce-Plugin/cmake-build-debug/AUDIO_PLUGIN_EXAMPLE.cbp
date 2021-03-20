@@ -402,7 +402,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="AudioPluginExample_VST3">
-				<Option output="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug/AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86-win/Audio Plugin Example.vst3" prefix_auto="0" extension_auto="0"/>
+				<Option output="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug/AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86_64-win/Audio Plugin Example.vst3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="3"/>
@@ -485,7 +485,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="AudioPluginExample_VST3/fast">
-				<Option output="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug/AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86-win/Audio Plugin Example.vst3" prefix_auto="0" extension_auto="0"/>
+				<Option output="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug/AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86_64-win/Audio Plugin Example.vst3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/Ben Haywood/Documents/GitHub/Cmake_Tutorial/Test04-Juce-Plugin/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="3"/>

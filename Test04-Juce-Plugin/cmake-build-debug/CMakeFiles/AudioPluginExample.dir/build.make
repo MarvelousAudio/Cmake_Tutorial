@@ -64,266 +64,266 @@ include CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.obj: ..\PluginEditor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AudioPluginExample.dir/PluginEditor.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginEditor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/PluginEditor.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginEditor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/PluginEditor.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\PluginEditor.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginEditor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.obj: ..\PluginProcessor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AudioPluginExample.dir/PluginProcessor.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginProcessor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/PluginProcessor.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginProcessor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/PluginProcessor.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\PluginProcessor.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\PluginProcessor.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.obj: ..\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_utils.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_utils.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_utils.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.obj: ..\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_utils/juce_audio_utils.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_utils/juce_audio_utils.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_utils/juce_audio_utils.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_utils\juce_audio_utils.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.obj: ..\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_processors/juce_audio_processors.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_processors/juce_audio_processors.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_processors/juce_audio_processors.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_processors\juce_audio_processors.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.obj: ..\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_extra/juce_gui_extra.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_extra\juce_gui_extra.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.obj: ..\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_gui_basics/juce_gui_basics.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_gui_basics\juce_gui_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.obj: ..\JUCE\modules\juce_graphics\juce_graphics.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_graphics/juce_graphics.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_graphics\juce_graphics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_graphics/juce_graphics.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_graphics\juce_graphics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_graphics/juce_graphics.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_graphics\juce_graphics.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_graphics\juce_graphics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.obj: ..\JUCE\modules\juce_events\juce_events.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_events/juce_events.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_events\juce_events.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_events/juce_events.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_events\juce_events.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_events/juce_events.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_events\juce_events.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_events\juce_events.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.obj: ..\JUCE\modules\juce_core\juce_core.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_core/juce_core.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_core\juce_core.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_core/juce_core.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_core\juce_core.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_core/juce_core.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_core\juce_core.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_core\juce_core.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.obj: ..\JUCE\modules\juce_data_structures\juce_data_structures.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_data_structures/juce_data_structures.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_data_structures\juce_data_structures.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_data_structures/juce_data_structures.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_data_structures\juce_data_structures.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_data_structures/juce_data_structures.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_data_structures\juce_data_structures.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_data_structures\juce_data_structures.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.obj: ..\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_basics/juce_audio_basics.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_basics/juce_audio_basics.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_basics/juce_audio_basics.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_basics\juce_audio_basics.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.obj: ..\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_formats/juce_audio_formats.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_formats/juce_audio_formats.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_formats/juce_audio_formats.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_formats\juce_audio_formats.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.obj: CMakeFiles\AudioPluginExample.dir\flags.make
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.obj: ..\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_devices/juce_audio_devices.cpp.obj"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.obj /FdCMakeFiles\AudioPluginExample.dir\AudioPluginExample.pdb /FS -c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_devices/juce_audio_devices.cpp.i"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.i @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe > CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.i @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp"
 <<
 
 CMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/AudioPluginExample.dir/JUCE/modules/juce_audio_devices/juce_audio_devices.cpp.s"
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @<<
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\AudioPluginExample.dir\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp.s /c "C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\JUCE\modules\juce_audio_devices\juce_audio_devices.cpp"
 <<
 
@@ -365,7 +365,7 @@ AudioPluginExample_EXTERNAL_OBJECTS =
 "AudioPluginExample_artefacts\Debug\Audio Plugin Example_SharedCode.lib": CMakeFiles\AudioPluginExample.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Ben Haywood\Documents\GitHub\Cmake_Tutorial\Test04-Juce-Plugin\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX static library \"AudioPluginExample_artefacts\Debug\Audio Plugin Example_SharedCode.lib\""
 	$(CMAKE_COMMAND) -P CMakeFiles\AudioPluginExample.dir\cmake_clean_target.cmake
-	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /lib /nologo /machine:X86 /out:"AudioPluginExample_artefacts\Debug\Audio Plugin Example_SharedCode.lib" @CMakeFiles\AudioPluginExample.dir\objects1.rsp 
+	C:\PROGRA~2\MICROS~1\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx64\x64\link.exe /lib /nologo /machine:x64 /out:"AudioPluginExample_artefacts\Debug\Audio Plugin Example_SharedCode.lib" @CMakeFiles\AudioPluginExample.dir\objects1.rsp 
 
 # Rule to build all files generated by this target.
 CMakeFiles\AudioPluginExample.dir\build: "AudioPluginExample_artefacts\Debug\Audio Plugin Example_SharedCode.lib"

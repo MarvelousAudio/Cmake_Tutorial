@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.lib"
-  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86-win/Audio Plugin Example.pdb"
-  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86-win/Audio Plugin Example.vst3"
-  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86-win/Audio Plugin Example.vst3.manifest"
+  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86_64-win/Audio Plugin Example.pdb"
+  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86_64-win/Audio Plugin Example.vst3"
+  "AudioPluginExample_artefacts/Debug/VST3/Audio Plugin Example.vst3/Contents/x86_64-win/Audio Plugin Example.vst3.manifest"
   "CMakeFiles/AudioPluginExample_VST3.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_AAX.cpp.obj"
   "CMakeFiles/AudioPluginExample_VST3.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_RTAS_1.cpp.obj"
   "CMakeFiles/AudioPluginExample_VST3.dir/JUCE/modules/juce_audio_plugin_client/juce_audio_plugin_client_RTAS_2.cpp.obj"
